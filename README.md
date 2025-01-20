@@ -57,9 +57,18 @@ In summary, JavaScript is versatile and can operate in browsers, on servers, in 
 
 
 
-JavaScript vs ECMAScript:
+JavaScript(JS) vs ECMAScript(ES):
 JavaScript is a high-level programming language used mainly for web development, while ECMAScript is the scripting language specification that defines the core features and syntax of JavaScript. JavaScript implements the ECMAScript standard but also includes additional functionalities and APIs not covered by ECMAScript. In essence, JavaScript is the practical application of the ECMAScript specification.
 
+
+
+
+Note: 
+Classes: Classes are used to create objects and define their behaviour through methods. They provide a blueprint for creating instances and can implement inheritance.
+Modules: Modules are used to encapsulate code and manage dependencies. They allow you to export and import functionalities (like classes, functions, or variables) between different files, promoting better code organization and reuse.
+
+classes => objects
+modules => encapsulate code
 
 
 
